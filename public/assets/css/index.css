@@ -1,0 +1,27 @@
+header {
+  position: absolute;
+  width: 375px;
+  height: 51px;
+  left: 0px;
+  top: 0px;
+
+  background: #000000;
+}
+
+header .menu-header {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  left: 0px;
+  top: 4px;
+}
+
+header .menu-header .material-icons-outlined {
+  position: absolute;
+  left: 28.57%;
+  right: 28.57%;
+  top: 35.71%;
+  bottom: 35.71%;
+
+  background: #ffffff;
+}
